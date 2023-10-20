@@ -22,7 +22,7 @@ This is a simple GraphQL server built using Node.js and MongoDB.
 
    ```bash
    git clone https://github.com/saddamhr/gql-server-with-node.git
-   cd your-graphql-server
+   cd gql-server-with-node
    ```
 
 
